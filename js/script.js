@@ -22,7 +22,7 @@ $("#details .firstDiv").css("display" , "block");
 $("#details h3").click(function(){
   $(this).next().slideToggle(700);
 
-$("details div").not($(this).next()).slideUp(700);
+$("#details div").not($(this).next()).slideUp(700);
 
 });
 // ///////////links csroll//////////////
