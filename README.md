@@ -1,2 +1,2 @@
 # JQuery-assignment
-link https://jq-assignment.vercel.app/
+link : https://jq-assignment.vercel.app/
